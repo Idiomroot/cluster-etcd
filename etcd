@@ -1,4 +1,4 @@
-# 3台机器 ETCD_NAME 名字不一样 本机IP不一样
+# 3台机器 ETCD_NAME 名字不一样 本机IP不一样，注意修改关键字
 #[Member]
 ETCD_NAME="etcd01"
 ETCD_DATA_DIR="/var/lib/etcd/default.etcd"
